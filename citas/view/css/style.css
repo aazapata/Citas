@@ -1,0 +1,85 @@
+
+.wrapper {
+	width: 85%;
+	background: #398386;
+	height: auto;
+	margin: auto;
+	padding: 15px;
+}
+
+.title-user {
+	background: #050080;  
+	height: 50px; 
+	width: 80%; 
+	color: #fff;
+	border-radius: 10px;
+    margin: auto;
+    font-family: fantasy;
+    text-align: center; 
+}
+
+.title-user h1 { padding-top: 5px; }
+h1 a { color:#fff; }
+.form-user{ width: 30%; margin: auto; }
+
+input {
+	width: 100%;
+    border: none;
+    border-radius: 5px;
+    height: 32px;
+    margin-bottom: 12px;
+    margin-top: 2px;
+    font-family: fantasy;
+    font-size: 17px;
+    text-align: center; 
+}
+
+input[type="submit"]{ 
+	background: #00E3FF; 
+	color: #fff;
+	cursor: pointer; 
+	font-family: fantasy;
+	font-size: 20px;
+	letter-spacing: 2px; 
+} 
+
+label {
+	color: #fff;
+	font-family: fantasy;
+}
+
+.footer { 
+	font-family: fantasy;
+    color: #fff;
+    background-color: #050080;
+    padding: 12px 21px;
+}
+
+.footer a { color: #00E3FF; text-decoration: none; }
+
+.content-table { 
+	font-family: fantasy;
+	color: #fff;
+	width: 80%; 
+	margin: auto; 
+}
+
+.item_admin {
+	width: 26%;
+    background: #00E3FF;
+    border-radius: 5px;
+    color: #fff;
+    font-family: fantasy;
+    font-size: 27px;
+    height: 36px;
+    margin: 40px;
+    text-align: center;
+}
+
+.content-item { 
+	width: 79%;
+	margin: auto;
+	height: auto;
+}
+
+.content-item a{ text-decoration: none; }
